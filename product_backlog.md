@@ -35,3 +35,6 @@ View welcome message Medium Priority
 Account login High priority
 Account registration High priority
 Error feedback on login High priority
+
+  Detailed screen:
+About and instructions for the task.
